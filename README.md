@@ -2,8 +2,11 @@
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning at Innopolis University
 - 💞️ I want to cooperate with everyone who can give me experience in software development
-- 📫 My email for communication: kgimazitdinov@gmail.com
-- 📫 Social network: https://vk.com/dobryi_kam
+- 📫 Contact details:
+  - [VK](https://vk.com/dobryi_kam) 
+  - [Mail](kgimazitdinov@gmail.com) 
+  - [GitHub Account](github.com/KamilGimazitdinov)
+  - Mobile phone number 89128580388
 
 <!---
 KamilGimazitdinov/KamilGimazitdinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
